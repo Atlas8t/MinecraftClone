@@ -1,4 +1,4 @@
-# Voxel World - A Minecraft Clone Demo
+Minecraft Clone Demo
 
 A simple Minecraft-inspired voxel game demo built using HTML, CSS, and Three.js. This project showcases procedural world generation, chunk loading, block interaction, a dynamic day/night cycle, and a handheld torch with particle effects, all running directly in the browser.
 

@@ -46,10 +46,9 @@ This project is designed to be simple to run.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/Atlas8t/MinecraftClone.git
+    cd MinecraftClone
     ```
-    *(Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME`)*
 
 2.  **Start a simple local web server** in the project directory. Here are a few ways:
     *   **Using Python 3:**
